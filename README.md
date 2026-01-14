@@ -5,7 +5,7 @@ Section 0: Candidate details
 - Full name: Annu Parjapati  
 - Email address: annuparjapati@59gmail.com
 - College / company name: Shanti Institute of Technology (AKTU)  
-- GitHub profile URL:  https://github.com/Annuparjapati59/PythonProjects/edit/main/README.md
+- GitHub profile URL:  https://github.com/Annuparjapati59/PythonProjects/blob/main/README.md
 - Internship batch / group name:B.tech (computer science and engineering)
 
 ---
